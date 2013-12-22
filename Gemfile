@@ -16,6 +16,7 @@ gem 'pg'
 gem 'thin'
 end
 
+gem 'turbolinks'
 gem 'jquery-rails', '2.0.2'
 gem 'sass-rails', '~> 4.0.0.rc1'
 gem 'uglifier', '>= 1.3.0'
